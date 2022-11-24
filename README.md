@@ -20,7 +20,9 @@ Opa! Me chamo Pietro Schuster, desde sempre curtindo muita programação e não 
 
 <br>
 
-- Java Script 📝
+<div style="display: inline-block">
+  <img alt="Schuster-Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
 
 <br>
 
@@ -38,6 +40,9 @@ Opa! Me chamo Pietro Schuster, desde sempre curtindo muita programação e não 
     <img align="center" alt="Schuster-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     <img align="center" alt="Schuster-Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
+##
+
 <div align="center">
     <img align="center" alt="Schuster-Icon"src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969">   
 </div>
