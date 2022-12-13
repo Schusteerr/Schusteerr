@@ -11,7 +11,7 @@ Opa! Me chamo Pietro Schuster, desde sempre curtindo muita programação e não 
 
 - Estudando sobre computação desde 2018 📚
 - Faço Mecatronica no Instituto Federal de Minas Gerais 🍞🧀 ⚙
-- Busco bacharelado em Ciências da Computação 💻
+- Indo atrás do sonho de ter bacharelado em Ciências da Computação 💻
 - Tento praticar do meu Hobbie em diferentes projetos, espero compartilhar alguns aqui!! 🤘🏻🤘🏻🤘🏻
 
 <br>
