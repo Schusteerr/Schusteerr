@@ -23,7 +23,7 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 
 <div style="display: inline-block">
   <a href="https://github.com/Schusteerr">
-  <img height="169em" src="https://schusteerr.vercel.app/api?username=schusteerr&show_icons=true&bg_color=0D1117&border_color=695f56&title_color=d5bfa7&text_color=C3D1D9&icon_color=695f56&include_all_commits=true&count_private=true"/>
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=schusteerr&show_icons=true&bg_color=0D1117&border_color=695f56&title_color=d5bfa7&text_color=C3D1D9&icon_color=695f56&include_all_commits=true&count_private=true"/>
   <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schusteerr&layout=compact&langs_count=10&bg_color=0D1117&border_color=695f56&title_color=d5bfa7&text_color=C3D1D9"/>
   
 </div>
