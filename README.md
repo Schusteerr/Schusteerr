@@ -7,8 +7,8 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 
 - Estudando sobre computação desde 2018 📚
 - Sempre apreciando uma boa música 🎧
-- Faço Mecatronica no Instituto Federal de Minas Gerais 🍞🧀 ⚙
-- Fazendo Ciências da Computação 💻
+- Atualmente fazendo Ciências da Computação 💻
+- Formado em Mecatronica no Instituto Federal de Minas Gerais 🍞🧀 ⚙
 - Tento praticar do meu Hobbie em diferentes projetos, espero compartilhar alguns aqui!! 🤘🏻🤘🏻🤘🏻
 
 ### Learning Now 📚
