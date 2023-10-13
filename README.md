@@ -7,16 +7,18 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 
 - Estudando sobre computação desde 2018 📚
 - Sempre apreciando uma boa música 🎧
-- Atualmente fazendo Ciências da Computação 💻
+- Atualmente estudando Ciências da Computação 💻
 - Formado em Mecatronica no Instituto Federal de Minas Gerais 🍞🧀 ⚙
 - Tento praticar do meu Hobbie em diferentes projetos, espero compartilhar alguns aqui!! 🤘🏻🤘🏻🤘🏻
 
 ### Learning Now 📚
 
-<div style="display: inline-block">
-  <img alt="Schuster-HTML" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Schuster-CSS" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <br>
+<div style="display: inline-block; padding: 20px 0px;">
+  <img alt="Schuster-DJ" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img alt="Schuster-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="Schuster-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Schuster-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
 </div>
 
 ##
@@ -37,8 +39,7 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
     <img align="center" alt="Schuster-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Schuster-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Schuster-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Schuster-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align="center" alt="Schuster-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+    <img align="center" alt="Schuster-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 ### Listening Now 🎧
