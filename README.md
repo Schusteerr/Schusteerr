@@ -16,10 +16,18 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 <div style="display: inline-block; padding: 20px 0px;">
   
 
-  <img alt="Schuster-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img alt="Schuster-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img alt="Schuster-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-          
+  <img alt="Schuster-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="Schuster-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="Schuster-PSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+
+
+### Return to learning... ⏰
+<div style="display: inline-block; padding: 20px 0px;">
+
+  <img align="center" alt="Schuster-DJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Schuster-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Schuster-HTML" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Schuster-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 </div>
 
@@ -29,6 +37,7 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
   <a href="https://github.com/Schusteerr">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=schusteerr&show_icons=true&bg_color=0D1117&border_color=695f56&title_color=d5bfa7&text_color=C3D1D9&icon_color=695f56&include_all_commits=true&count_private=true"/>
   <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schusteerr&layout=compact&langs_count=10&bg_color=0D1117&border_color=695f56&title_color=d5bfa7&text_color=C3D1D9"/>
+
   
   
 </div>
@@ -37,16 +46,12 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 ## Knowledge Area 💾
 
 <div style="display: inline-block; padding: 20px 0px;">
-    <img align="center" alt="Schuster-INO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    <img align="center" alt="Schuster-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Schuster-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Schuster-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Schuster-DJ" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-    <img align="center" alt="Schuster-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Schuster-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="center" alt="Schuster-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="Schuster-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="Schuster-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+    <img align="center" alt="Schuster-INO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img align="center" alt="Schuster-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img align="center" alt="Schuster-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Schuster-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Schuster-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img align="center" alt="Schuster-WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 ### Listening Now 🎧
