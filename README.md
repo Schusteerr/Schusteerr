@@ -18,6 +18,8 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 
   <img alt="Schuster-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="Schuster-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="Schuster-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
 
 </div>
 
