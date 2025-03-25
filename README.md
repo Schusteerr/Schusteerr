@@ -16,8 +16,9 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 <div style="display: inline-block; padding: 20px 0px;">
   
 
+  <img alt="Schuster-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />  
   <img alt="Schuster-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img alt="Schuster-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="Schuster-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Schuster-PSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 
 
@@ -25,6 +26,7 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 <div style="display: inline-block; padding: 20px 0px;">
 
   <img align="center" alt="Schuster-DJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Schuster-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Schuster-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Schuster-HTML" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Schuster-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
