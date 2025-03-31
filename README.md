@@ -49,11 +49,14 @@ Opa! Me chamo Pietro Schuster, sou entusiasta no que envolve computação, desde
 
 <div style="display: inline-block; padding: 20px 0px;">
     <img align="center" alt="Schuster-INO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img align="center" alt="Schuster-WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
     <img align="center" alt="Schuster-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Schuster-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Schuster-Python" height="40" width="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="Schuster-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Schuster-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="center" alt="Schuster-WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+    <img img align="center" alt="Schuster-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
 </div>
 
 ### Listening Now 🎧
